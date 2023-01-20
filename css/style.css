@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+.navbar {
+  position: sticky;
+}
+
+#logo {
+  width: 90px;
+  height: 50px;
+  margin-right: 30px;
+}
+
+.btn {
+  border: 1px black;
+  margin-right: 50px;
+  margin-left: 20px;
+}
+
+.btnhome {
+  background-color: #6c1717;
+  color: white;
+}
+
+.btnhome:hover {
+  color: white;
+}
+
+.btnmenu {
+  background-color: white;
+  color: #6c1717;
+}
+
+.btnmenu:hover {
+  background-color: #6c1717;
+  color: white;
+}
+
+.btnabout {
+  background-color: white;
+  color: #6c1717;
+}
+
+.btnabout:hover {
+  background-color: #6c1717;
+  color: white;
+}
+
+.hero1 {
+  width: 100%;
+  height: auto;
+  background: url(../assets/bg1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero1_content {
+  color: white;
+  padding-top: 240px;
+  padding-left: 45px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 40px;
+  width: 60%;
+  height: 100vh;
+}
+
+.hero_image {
+  position: absolute;
+  left: -23px;
+  top: 735px;
+  margin-bottom: 100px;
+}
+
+#homeramen {
+  width: 332px;
+  height: 331px;
+  margin-bottom: 20px;
+}
+
+#tekshero2 {
+  font-family: "Iceberg";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+
+  color: #000000;
+}
+
+#btnlengkap {
+  background-color: #6c1717;
+  color: white;
+  text-align: left;
+  padding-right: 150px;
+  margin-left: -2px;
+}
